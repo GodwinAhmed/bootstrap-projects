@@ -1,0 +1,24 @@
+{
+  "name": "apps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "clear": "^0.1.0",
+    "gulp-sass": "^4.0.2",
+    "install": "^0.13.0",
+    "jquery": "^3.4.1",
+    "tether": "^1.4.7"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-version-replace": "^1.0.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
